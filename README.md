@@ -175,5 +175,3 @@ GitHub: [montybot](https://github.com/montybot)
 - Inspired by the need to automate the extraction of R code for reproducibility.
 
 ---
-
-This updated `README.md` provides a comprehensive overview of the project, including the context for why R code might be embedded in Org mode files. It also highlights the script’s error-handling capabilities, making it easier for users to understand and use the tool effectively.
