@@ -39,7 +39,7 @@ This script helps extract the R code from such files, making it easier to reuse 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/r-command-extractor.git
+   git clone https://github.com/montybot/r-command-extractor.git
    ```
 
 2. Navigate to the project directory:
